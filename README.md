@@ -1,1 +1,2 @@
 # analisis-deforestasi-dan-sawit-2024
+Repositori ini berisi dataset bersih yang sudah dilakukan proses pdf scraping, dokumentasi, dan skrip analisis yang digunakan dalam penelitian berjudul “Analisis Hubungan Luas Lahan Kelapa Sawit dan Produksi Sawit terhadap Angka Deforestasi di Indonesia Tahun 2024.” Penelitian ini bertujuan untuk memahami hubungan antara ekspansi perkebunan kelapa sawit, tingkat produksi, dan angka deforestasi di Indonesia menggunakan data tahun 2024
