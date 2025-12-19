@@ -1,0 +1,4 @@
+﻿No,Nama_File,Jenis,Halaman,Metode_Ekstraksi,Tabel,Baris,Kolom,Status
+1,STATISTIK PERKEBUNAN JILID I 2022-2024.pdf,PDF,80-81,Camelot (stream),2,73,9,Berhasil
+2,Buku_Statistik_2024.pdf,PDF,19,PyMuPDF + find_tables(),1,35,9,Berhasil
+3,Produksi Tanaman Perkebunan 2024.csv,CSV,All,pandas.read_csv(),1,35,9,Berhasil
